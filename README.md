@@ -10,12 +10,12 @@ A bridge rectifier is one of the most important circuits used in power electroni
 
  Components Required
 S.No      	Component                                  	Quantity
-1          	Diodes (1N4007)                                 	4
-2         	Step-down Transformer (230V to 12V)              	1
-3	          Capacitor (1000µF, 25V)                         	1
-4         	Resistor (1kΩ as load)                          	1
+1          Diodes                                          	4
+2         	Step-down Transformer (230V to 12V)             	1
+3	         Capacitor                                       	1
+4         	Resistor                                        	1
 5         	Breadboard                                      	1
-6          	Connecting wires                                 10
+6         	Connecting wires                                10
 
 Circuit Diagram
 
